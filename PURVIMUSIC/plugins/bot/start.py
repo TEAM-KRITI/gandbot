@@ -30,9 +30,9 @@ from strings import get_string
 #--------------------------
 
 NEXI_VID = [
-"https://files.catbox.moe/2341d5.jpg",
-"https://files.catbox.moe/hujk2j.jpg",
-"https://files.catbox.moe/quiycz.jpg",
+"https://files.catbox.moe/slqu5l.jpg",
+"https://files.catbox.moe/slqu5l.jpg",
+"https://files.catbox.moe/slqu5l.jpg",
 "https://files.catbox.moe/ankqmj.jpg",
 "https://files.catbox.moe/tfv75s.jpg",
 "https://files.catbox.moe/g7inyd.jpg",
@@ -102,7 +102,7 @@ async def start_pm(client, message: Message, _):
         out = private_panel(_)
         baby = await message.reply_text(f"**ʜєʟʟᴏ ᴅєᴧʀ.❤️‍🩹**")
         await asyncio.sleep(0.5)
-        await baby.edit_text(f"**ɪ ᴧϻ ʜɪηᴧᴛᴧ ʜʏᴜɢᴧ..🦋**")
+        await baby.edit_text(f"**ɪ ᴧϻ 𝐁ᴀᴅɴᴀᴍ ʜʏᴜɢᴧ..🦋**")
         await asyncio.sleep(0.5)
         await baby.edit_text(f"**ʙєsᴛ ʟᴏʏᴧʟ ɢɪʀʟ ɪη...🫣**")
         await asyncio.sleep(0.5)
